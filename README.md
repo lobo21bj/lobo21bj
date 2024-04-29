@@ -2,7 +2,8 @@
 
 Don´t dream your life, live your dream
 
-<p align="right"><img width=20% src="https://r2.easyimg.io/lao9u0qod/cartoon_me2.jpg"></p>
+- Currently working in a SRE position.
+- Interested in Python, JavaScript, Node JS.
 
 <!--
 **lobo21bj/lobo21bj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
